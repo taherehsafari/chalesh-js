@@ -1,15 +1,19 @@
+// Array
 let school = [
-    
-    {
 
+    // Object
+    {
+        // Object
         info : {
             totalStudent : 4,
             teacherName : "Khateri",
             className : "classA"
         },
 
+        // Array
         students : [
 
+            // Objects
             {
                 name: "tahereh",
                 score: 17,
@@ -28,7 +32,7 @@ let school = [
                 codeMeli: 7777777,
             },
 
-            student4 = {
+            {
                 name: "hossein",
                 score: 20,
                 codeMeli: 8888888,
@@ -36,16 +40,19 @@ let school = [
         ]
     },
 
+    // Object
     {
-
+        // Object
         info : {
             totalStudent : 4,
             teacherName : "Ahmadi",
             className : "classB"
         },
 
+        // Array
         students : [
 
+            // Objects
             {
                 name: "nazanin",
                 score: 20,
@@ -72,4 +79,5 @@ let school = [
         ]
     },
 ]
+
 console.log(school[1])
