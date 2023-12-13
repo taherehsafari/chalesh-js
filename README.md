@@ -1,6 +1,6 @@
 # Java Script Challenge
 
-This is a Java Script class exercise we did
+This is a Java Script class exercise we did.
 Here we have a school where there are two classes named A and B.
 Each class contains two sections, class information and students information.
 
